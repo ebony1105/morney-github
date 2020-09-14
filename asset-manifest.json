@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/morney-github/static/css/main.898ac564.chunk.css",
+    "main.js": "/morney-github/static/js/main.ed4da0ff.chunk.js",
+    "main.js.map": "/morney-github/static/js/main.ed4da0ff.chunk.js.map",
+    "runtime-main.js": "/morney-github/static/js/runtime-main.3815f53c.js",
+    "runtime-main.js.map": "/morney-github/static/js/runtime-main.3815f53c.js.map",
+    "static/js/2.af96d619.chunk.js": "/morney-github/static/js/2.af96d619.chunk.js",
+    "static/js/2.af96d619.chunk.js.map": "/morney-github/static/js/2.af96d619.chunk.js.map",
+    "index.html": "/morney-github/index.html",
+    "precache-manifest.b9c990c53fd51e51b49bde75cc6494e4.js": "/morney-github/precache-manifest.b9c990c53fd51e51b49bde75cc6494e4.js",
+    "service-worker.js": "/morney-github/service-worker.js",
+    "static/css/main.898ac564.chunk.css.map": "/morney-github/static/css/main.898ac564.chunk.css.map",
+    "static/js/2.af96d619.chunk.js.LICENSE.txt": "/morney-github/static/js/2.af96d619.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3815f53c.js",
+    "static/js/2.af96d619.chunk.js",
+    "static/css/main.898ac564.chunk.css",
+    "static/js/main.ed4da0ff.chunk.js"
+  ]
+}
